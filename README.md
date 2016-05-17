@@ -49,3 +49,4 @@ include $(TOPDIR)/stylesheets/Makefile.rules
 ```
 $ make && firefox slide.html
 ```
+*Note*: Refer [slide2pdf](https://github.com/vengatlnx/slide2pdf) to convert your html slide to pdf
